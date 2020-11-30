@@ -1,0 +1,7 @@
+# Project exclude paths
+/venv/
+.idea
+/csv/
+/images/
+/gifs/
+*.pyc
